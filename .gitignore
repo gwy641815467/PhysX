@@ -1,0 +1,6 @@
+.vs/
+physx/bin/
+physx/compiler/public/out/
+physx/compiler/vc16win64/
+physx/compiler/vc17win64-brickadia/
+physx/snippets/compiler/cmake/
